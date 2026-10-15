@@ -1,66 +1,70 @@
 <div align="center">
 
-# 🛡️ ArmHack-Team
-### Cybersecurity Assessment, Cryptographic Research & Defensive Engineering Unit
+# 🛡️ ArmHack-Team 🇦🇲
+### Armenian Cybersecurity, Ethical Hacking & Digital Defense Organization
+**Est. 2016 • Yerevan, Armenia**
 
-[![Official Website](https://img.shields.io/badge/Website-armhack.team-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)](https://armhack.team)
-[![Security Advisories](https://img.shields.io/badge/Public_Registry-STIRS_v2.0-critical?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armhackteam/reports)
-[![Research Standard](https://img.shields.io/badge/Compliance-RFC_5280_%7C_RFC_8446_%7C_OWASP_MASVS-success?style=for-the-badge)](https://github.com/armhackteam/reports/blob/main/DISCLAIMER.md)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=for-the-badge)](https://github.com/armhackteam/reports/blob/main/LICENSE)
+[![Official Platform](https://img.shields.io/badge/Official_Platform-armhack.team-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)](https://armhack.team)
+[![Security Advisories](https://img.shields.io/badge/Security_Advisories-STIRS_v2.0-critical?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armhackteam/reports)
+[![L7 AI Defense](https://img.shields.io/badge/Protection-L7_AI_WAF_%26_Anti--DDoS-success?style=for-the-badge)](https://armhack.team)
+[![Location](https://img.shields.io/badge/Base-Yerevan%2C_Armenia_🇦🇲-D90012?style=for-the-badge)](https://armhack.team)
 
 ---
 
-**Independent Cryptographic Auditing • PKI & TLS Trust Modeling • Protocol Security Analysis • AI-Driven L7 WAF Defense**
+**Ethical Hacking & Red Teaming • AI-Powered L7 WAF & Anti-DDoS • Digital Forensics & Threat Intelligence • Cryptographic & AppSec Research**
 
 </div>
 
 ---
 
-## 🌐 About Us / О подразделении
+## 🇦🇲 Who We Are / О команде ArmHack-Team
 
 **🇬🇧 English:**  
-**`ArmHack-Team (Cybersecurity Assessment & Defensive Engineering Unit)`** is an independent cybersecurity research collective and defensive engineering team specializing in:
-- **Public Key Infrastructure (PKI) & Transport Layer Security (TLS):** Auditing Root CA hierarchies, X.509 trust boundaries, Certificate Transparency (CT) ecosystems, and transit-layer inspection risks (`RFC 5280`, `RFC 8446`, `CA/Browser Forum Baseline Requirements`).
-- **Cryptographic Protocol & Privacy Architecture Analysis:** Evaluating end-to-end encrypted (E2EE) messaging protocols, post-quantum key encapsulation (`sntrup761`, `ML-KEM`), metadata leakage, and traffic correlation resistance.
-- **Application Security (AppSec) & Endpoint Hardening:** Static and dynamic telemetry verification under `OWASP MASVS / MASTG` and `NIST SP 800-52 Rev. 2`.
-- **Active Infrastructure Protection:** Web Application Firewall (WAF), L7 DDoS mitigation, and defensive infrastructure hardening via [armhack.team](https://armhack.team).
+Founded in **2016** in **Yerevan, Armenia**, **ArmHack-Team** ([armhack.team](https://armhack.team)) is an Armenian cybersecurity and ethical hacking organization uniting veteran offensive/defensive security specialists, cryptographers, threat analysts, and systems engineers. With over a decade of operational experience protecting critical digital infrastructure, enterprise networks, and web platforms, we combine proactive threat intelligence with proprietary AI-driven defense technologies.
 
 **🇷🇺 Русский:**  
-**`ArmHack-Team (Cybersecurity Assessment & Defensive Engineering Unit)`** — исследовательское подразделение в области кибербезопасности, криптографического анализа и защитной системной инженерии. Ключевые направления:
-- **Аудит инфраструктуры открытых ключей (PKI) и TLS:** Исследование корневых удостоверяющих центров (Root CA), границ доверия X.509, журналов Certificate Transparency и векторов транзитной инспекции трафика (`RFC 5280`, `RFC 8446`).
-- **Криптографический анализ протоколов и архитектуры приватности:** Верификация мессенджеров со сквозным шифрованием (E2EE), постквантовых алгоритмов обмена ключами (`sntrup761`, `ML-KEM`), устойчивости к корреляции трафика и защиты метаданных.
-- **Безопасность приложений (AppSec) и защита конечных узлов:** Статический и динамический анализ клиентской телеметрии по стандартам `OWASP MASVS / MASTG` и `NIST SP 800-52 Rev. 2`.
-- **Защита веб-инфраструктуры:** L7 WAF, защита от DDoS-атак и проактивный мониторинг угроз на базе [armhack.team](https://armhack.team).
+Основанная в **2016 году** в **Ереване (Армения)**, **ArmHack-Team** ([armhack.team](https://armhack.team)) — армянская команда и организация в сфере кибербезопасности, этичного хакинга и цифровой защиты. Объединяя специалистов по наступательной и оборонительной безопасности (Red / Blue Team), криптографов, форензик-аналитиков и системных инженеров с более чем 10-летним операционным опытом, команда обеспечивает комплексную защиту критической инфраструктуры, корпоративных сетей и веб-платформ, а также разрабатывает собственные ИИ-системы проактивного отражения кибератак.
 
 ---
 
-## 🗂️ Featured Security Assessments & Advisories ([`armhackteam/reports`](https://github.com/armhackteam/reports))
+## ⚡ Core Capabilities & Ecosystem / Направления деятельности и технологии
 
-All technical publications follow the **STIRS v2.0 (Standardized Technical Information & Risk Specification)** framework and are available in both **English** and **Russian**:
+| Domain / Направление | Capabilities & Solutions / Компетенции и продукты |
+| :--- | :--- |
+| **🎯 Offensive Security & Ethical Hacking**<br>*(Пентест и аудит защищенности)* | • Full-scope Penetration Testing (Web, Network, Cloud, Mobile)<br>• Red Team Operations & Adversarial Simulation<br>• Application Security (AppSec), Source Code & Cryptographic Protocol Auditing |
+| **🛡️ Proprietary L7 AI Defense & WAF**<br>*(Собственные технологии защиты)* | • **L7 AI & ArmHack-CyberEngine:** Behavioral correlation & real-time automated attack mitigation<br>• **ArmHack WAF & CDN:** High-capacity Anti-DDoS protection & Web Application Firewall<br>• **Online Security Suite:** L7 Antivirus / File Scanner, Live Cyber Threat Map & Network Radars |
+| **🔍 Digital Forensics & Threat Intelligence**<br>*(Форензика и киберразведка)* | • 24/7 Incident Response, Malware Analysis & Removal<br>• YARA-based Threat Hunting & APT Tracking<br>• Network, Database & Cloud Infrastructure Hardening |
+| **📑 Public Security Research & Advisories**<br>*(Публичные исследования и бюллетени)* | • PKI & TLS Trust-Boundary Assessments (`RFC 5280`, `RFC 8446`)<br>• Zero-Identifier & Federated Messaging Protocol Evaluations<br>• Open-Standards Security Advisories published under **STIRS v2.0** |
 
-| Advisory ID | Evaluated Subject | Category | Risk / Rating | Documentation |
+---
+
+## 🗂️ Public Security Advisories & Cryptographic Audits ([`armhackteam/reports`](https://github.com/armhackteam/reports))
+
+Our research division publishes independent technical security assessments and threat models in **English** and **Russian** under the **STIRS v2.0** standard:
+
+| Advisory ID | Evaluated Subject / Объект исследования | Category | Risk / Rating | Documentation |
 | :--- | :--- | :---: | :---: | :---: |
 | **[`AHT-SEC-2026-PKI-01`](https://github.com/armhackteam/reports/tree/main/reports/2026/AHT-SEC-2026-PKI-01)** | Russian National Root CA (`Russian Trusted Root CA`) & Client Trust Store Architecture (`Yandex Browser`) | `PKI` | ![CRITICAL](https://img.shields.io/badge/Risk-CRITICAL-red) | [🇬🇧 EN](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-PKI-01/REPORT.md) \| [🇷🇺 RU](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-PKI-01/REPORT.ru.md) |
 | **[`AHT-SEC-2026-NET-02`](https://github.com/armhackteam/reports/tree/main/reports/2026/AHT-SEC-2026-NET-02)** | SimpleX Chat Protocol (`SMP` / `XFTP`) & Zero-Identifier Network Architecture (`chat.simplex.app`) | `NET` | ![LOW](https://img.shields.io/badge/Risk-LOW%20(Grade%20A%2B)-brightgreen) | [🇬🇧 EN](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-NET-02/REPORT.md) \| [🇷🇺 RU](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-NET-02/REPORT.ru.md) |
 | **[`AHT-SEC-2026-APP-03`](https://github.com/armhackteam/reports/tree/main/reports/2026/AHT-SEC-2026-APP-03)** | Element Messenger Client (`im.vector.app` / `io.element.android.x`) & Matrix Federated Protocol (`vodozemac`) | `APP` | ![MEDIUM](https://img.shields.io/badge/Risk-MEDIUM%20(Grade%20B%2B)-yellow) | [🇬🇧 EN](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-APP-03/REPORT.md) \| [🇷🇺 RU](https://github.com/armhackteam/reports/blob/main/reports/2026/AHT-SEC-2026-APP-03/REPORT.ru.md) |
 
-👉 **[Browse the Full Advisory Registry →](https://github.com/armhackteam/reports)**
+👉 **[Open the Full Security Advisory Registry (`armhackteam/reports`) →](https://github.com/armhackteam/reports)**
 
 ---
 
-## 🔬 Research Methodology & Legal Framework (Safe Harbor)
+## ⚖️ Ethics, Standards & Safe Harbor
 
-Our security assessments adhere strictly to international defensive engineering standards:
-1. **Artifact Pinning & Reproducibility:** Every finding is anchored to verifiable cryptographic hashes (`SHA-256`), X.509 certificate chains, and open specifications.
-2. **Architectural Capability vs. Intent:** Reports evaluate mathematical trust boundaries, protocol mechanics, and systemic risk vectors rather than making subjective claims regarding vendor motives.
-3. **Strict Data Sanitization:** All laboratory captures and protocol traces are scrubbed of personal identifiers (`[REDACTED]`) prior to publication.
-
-*Read our full legal framework: [🇬🇧 Research Disclaimer](https://github.com/armhackteam/reports/blob/main/DISCLAIMER.md) | [🇷🇺 Юридический регламент](https://github.com/armhackteam/reports/blob/main/DISCLAIMER.ru.md)*
+All public security research conducted by **ArmHack-Team** strictly follows international ethical hacking and defensive engineering frameworks (`IETF RFC 5280`, `RFC 8446`, `OWASP MASVS / MASTG`, `NIST SP 800-52`, `ISO/IEC 29147`):
+- **Verifiable Evidence:** Findings are anchored to immutable cryptographic hashes (`SHA-256`), X.509 parameters, and reproducible protocol behaviors.
+- **Strict Sanitization:** All laboratory captures are scrubbed of private identifiers (`[REDACTED]`).
+- **Legal Framework:** [🇬🇧 Research Disclaimer (Safe Harbor)](https://github.com/armhackteam/reports/blob/main/DISCLAIMER.md) | [🇷🇺 Юридический регламент](https://github.com/armhackteam/reports/blob/main/DISCLAIMER.ru.md)
 
 ---
 
 <div align="center">
 
-**[🌐 armhack.team](https://armhack.team)** • **[📂 Advisory Registry](https://github.com/armhackteam/reports)**
+**[🌐 Official Website: armhack.team](https://armhack.team)** • **[📂 Public Advisory Registry](https://github.com/armhackteam/reports)** • **[🔒 Security Policy](https://github.com/armhackteam/reports/blob/main/SECURITY.md)**
+
+*ArmHack-Team — Protecting Digital Frontiers Since 2016.*
 
 </div>
